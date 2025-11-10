@@ -8,8 +8,8 @@ This system combines **machine learning** and **Streamlit** for real-time anomal
 
 ## 🚀 Live Demo
 
-🔗 **Streamlit App:** [](https://anomaly-detection-is6ptcjtharkltd4pmopec.streamlit.app/)(#)  
-💻 **GitHub Repo:** [](https://github.com/jagant141/Anomaly-detection)(#)
+🔗 **Streamlit App:** [(https://anomaly-detection-is6ptcjtharkltd4pmopec.streamlit.app/)](#)  
+💻 **GitHub Repo:** [(https://github.com/jagant141/Anomaly-detection)](#)
 
 ---
 
